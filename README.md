@@ -1,2 +1,2 @@
 # Telecomminication_Churn_Project
-model churn probability, conditioned on the customer features.
+Developed a machine learning-based churn prediction model to help telecommunications companies retain customers. The project involved data preprocessing, feature engineering, exploratory data analysis (EDA), data visualization, and model evaluation. Implemented Logistic Regression, Decision Tree, Random Forest, and XGBoost classifiers to predict customer churn based on behavioral and billing features. Key insights from correlation analysis, customer service interactions, and international plan usage helped identify factors influencing churn. The final model, optimized using hyperparameter tuning and ROC-AUC analysis, improved churn prediction accuracy.
